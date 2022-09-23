@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Píseční dítě</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Proč jen se usmívají</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_005.xhtml#_idParaDest-1"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Tolik písku a slunce</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_007.xhtml#_idParaDest-3"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Tvé zlaté písečné oči</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_008.xhtml#_idParaDest-4"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Odbilo jedenáct</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_009.xhtml#_idParaDest-5"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Jak ses ve mně zabydlela</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_010.xhtml#_idParaDest-6"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Už jsem nechtěla</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_011.xhtml#_idParaDest-7"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Má pyšná kůže je popsaná</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_012.xhtml#_idParaDest-8"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Odlétla jsi v očích slzy</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_013.xhtml#_idParaDest-9"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Okouzlilas je všechny</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_014.xhtml#_idParaDest-10"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Se mnou neprojdeš Tibet</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_015.xhtml#_idParaDest-11"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Máš kůži jak nejjemnější hedvábí</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_016.xhtml#_idParaDest-12"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Po milování jsou tvoje oči</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_017.xhtml#_idParaDest-13"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Už mě nebolelo</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_018.xhtml#_idParaDest-14"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Na staženou kůži</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_019.xhtml#_idParaDest-15"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Od mala stavěný</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_020.xhtml#_idParaDest-16"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>Slunce ještě hřeje</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_021.xhtml#_idParaDest-17"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Štědrý den potemněl</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_022.xhtml#_idParaDest-18"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>Co za dary mi přinášíš</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_023.xhtml#_idParaDest-19"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>Když se směješ</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_024.xhtml#_idParaDest-20"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>Ještě jednou být s tebou</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_025.xhtml#_idParaDest-21"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>V jaké závrati</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_026.xhtml#_idParaDest-22"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>Kudy jsi bloudila</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_027.xhtml#_idParaDest-23"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>Kolikrát za den tě slyším</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_028.xhtml#_idParaDest-24"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>Co všechno se tu sešlo</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_029.xhtml#_idParaDest-25"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>Nikdy ses nezeptala</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_030.xhtml#_idParaDest-26"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>Říkáš</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_031.xhtml#_idParaDest-27"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>Můžeme k nim i zaletět</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_032.xhtml#_idParaDest-28"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>Pokaždé se stydíš</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_033.xhtml#_idParaDest-29"/>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>Oslavuješ nahé tělo</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_034.xhtml#_idParaDest-30"/>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>Jsi moje snění</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_035.xhtml#_idParaDest-31"/>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>Neměla jsem komu umřít</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_036.xhtml#_idParaDest-32"/>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>I sněhová</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_037.xhtml#_idParaDest-33"/>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>Nabízíš se</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_038.xhtml#_idParaDest-34"/>
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>Taky jsi malá malovala</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_039.xhtml#_idParaDest-35"/>
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>Kam bys však odletěla</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_040.xhtml#_idParaDest-36"/>
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>Tichá voda</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_041.xhtml#_idParaDest-37"/>
+    </navPoint>
+    <navPoint id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>A zase</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_042.xhtml#_idParaDest-38"/>
+    </navPoint>
+    <navPoint id="navPoint-38" playOrder="38">
+      <navLabel>
+        <text>Kde jsi od rána</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_043.xhtml#_idParaDest-39"/>
+    </navPoint>
+    <navPoint id="navPoint-39" playOrder="39">
+      <navLabel>
+        <text>A přece to budu já</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_044.xhtml#_idParaDest-40"/>
+    </navPoint>
+    <navPoint id="navPoint-40" playOrder="40">
+      <navLabel>
+        <text>Vím že hledím ze dna</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_045.xhtml#_idParaDest-41"/>
+    </navPoint>
+    <navPoint id="navPoint-41" playOrder="41">
+      <navLabel>
+        <text>Tiskni se ke mně</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_046.xhtml#_idParaDest-42"/>
+    </navPoint>
+    <navPoint id="navPoint-42" playOrder="42">
+      <navLabel>
+        <text>Tvá ztišená tvář</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_047.xhtml#_idParaDest-43"/>
+    </navPoint>
+    <navPoint id="navPoint-43" playOrder="43">
+      <navLabel>
+        <text>Postavíme kolem tebe</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_048.xhtml#_idParaDest-44"/>
+    </navPoint>
+    <navPoint id="navPoint-44" playOrder="44">
+      <navLabel>
+        <text>Ještě jsi o mně nevěděla</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_049.xhtml#_idParaDest-45"/>
+    </navPoint>
+    <navPoint id="navPoint-45" playOrder="45">
+      <navLabel>
+        <text>Teď na hrázi</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_050.xhtml#_idParaDest-46"/>
+    </navPoint>
+    <navPoint id="navPoint-46" playOrder="46">
+      <navLabel>
+        <text>Těch vzlyků smíchu</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_051.xhtml#_idParaDest-47"/>
+    </navPoint>
+    <navPoint id="navPoint-47" playOrder="47">
+      <navLabel>
+        <text>„I v loďce na řetězu…“</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_052.xhtml#_idParaDest-48"/>
+    </navPoint>
+    <navPoint id="navPoint-48" playOrder="48">
+      <navLabel>
+        <text>Nebyl to pahýl doubku</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_053.xhtml#_idParaDest-49"/>
+    </navPoint>
+    <navPoint id="navPoint-49" playOrder="49">
+      <navLabel>
+        <text>To dítě lásko</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_054.xhtml#_idParaDest-50"/>
+    </navPoint>
+    <navPoint id="navPoint-50" playOrder="50">
+      <navLabel>
+        <text>Lásko</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_055.xhtml#_idParaDest-51"/>
+    </navPoint>
+    <navPoint id="navPoint-51" playOrder="51">
+      <navLabel>
+        <text>Slad srpnových borovic</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_056.xhtml#_idParaDest-52"/>
+    </navPoint>
+    <navPoint id="navPoint-52" playOrder="52">
+      <navLabel>
+        <text>Z kočárků zmizely</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_057.xhtml#_idParaDest-53"/>
+    </navPoint>
+    <navPoint id="navPoint-53" playOrder="53">
+      <navLabel>
+        <text>Když v pátek přiletíš dřív</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_058.xhtml#_idParaDest-54"/>
+    </navPoint>
+    <navPoint id="navPoint-54" playOrder="54">
+      <navLabel>
+        <text>Procházely jsme září</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_059.xhtml#_idParaDest-55"/>
+    </navPoint>
+    <navPoint id="navPoint-55" playOrder="55">
+      <navLabel>
+        <text>Vánoce</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_060.xhtml#_idParaDest-56"/>
+    </navPoint>
+    <navPoint id="navPoint-56" playOrder="56">
+      <navLabel>
+        <text>Už zas mi lásko nastavuje</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_061.xhtml#_idParaDest-57"/>
+    </navPoint>
+    <navPoint id="navPoint-57" playOrder="57">
+      <navLabel>
+        <text>Řekni</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_062.xhtml#_idParaDest-58"/>
+    </navPoint>
+    <navPoint id="navPoint-58" playOrder="58">
+      <navLabel>
+        <text>Věř mi</text>
+      </navLabel>
+      <content src="Text/pisecne_dite_063.xhtml#_idParaDest-59"/>
+    </navPoint>
+  </navMap>
+</ncx>
