@@ -1,4 +1,5 @@
 ---
+title: "Proč jen se usmívajíty malé hlavyUž v\_matčině krvia\_ještě v\_ráji"
 contentType: prose
 ---
 
@@ -7,11 +8,6 @@ contentType: prose
 > 
 
 > _Emě_
-
-Proč jen se usmívají  
-ty malé hlavy  
-Už v matčině krvi  
-a ještě v ráji
 
 _Co je v nebi tak k smíchu  
 že ho znají  

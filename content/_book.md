@@ -2,8 +2,9 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
   title: Píseční dítě
   identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
   author: Viola Fischerová
@@ -11,10 +12,6 @@ meta:
   modified: '2021-01-19T00:00:00.000Z'
 readingOrder:
   - promo.html
-  - pisecne_dite_001.html
-  - pisecne_dite_002.html
-  - pisecne_dite_003.html
-  - pisecne_dite_004.html
   - pisecne_dite_005.html
   - pisecne_dite_006.html
   - pisecne_dite_007.html
@@ -74,11 +71,12 @@ readingOrder:
   - pisecne_dite_061.html
   - pisecne_dite_062.html
   - pisecne_dite_063.html
-  - pisecne_dite_064.html
+  - about.html
 tocBase:
   - id: section-1
     children: []
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

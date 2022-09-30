@@ -1,4 +1,5 @@
 ---
+title: "Když v\_pátek přiletíš dřívzavedu tědo krytového divadla"
 contentType: prose
 ---
 
@@ -7,10 +8,6 @@ contentType: prose
 > 
 
 > _Radimu Vašinkovi_
-
-Když v pátek přiletíš dřív  
-zavedu tě  
-do krytového divadla
 
 _Kdosi tam stvořil  
 ze starých stolů židlí  

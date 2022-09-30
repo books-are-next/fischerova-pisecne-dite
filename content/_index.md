@@ -1,11 +1,10 @@
 ---
+title: ''
 contentType: prose
 ---
 
 <section>
 
-Písečné dítě
-
-Viola Fischerová
+![](../Images/obalka_pisecne_dite.jpg)
 
 </section>
