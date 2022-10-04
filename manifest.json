@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "fischerova-pisecni-dite-a168722",
-  "revision": "a168722",
+  "identifier": "fischerova-pisecni-dite-8ba9c73",
+  "revision": "8ba9c73",
   "readingOrder": [
     "promo.html",
     "pisecne_dite_005.html",
@@ -73,8 +73,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 16:36:58 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664901418282
+    "date": "Tue Oct 04 2022 18:33:56 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664908436180
   },
   "documents": [
     {
