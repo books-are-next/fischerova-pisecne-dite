@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "fischerova-pisecni-dite-7fe81ce",
-  "revision": "7fe81ce",
+  "identifier": "fischerova-pisecni-dite-c5f644d",
+  "revision": "c5f644d",
   "readingOrder": [
     "promo.html",
     "pisecne_dite_005.html",
@@ -73,8 +73,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 13:48:45 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665150525121
+    "date": "Mon Oct 10 2022 15:40:58 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665416458802
   },
   "documents": [
     {
@@ -1273,7 +1273,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 133,
-      "chars": 882,
+      "chars": 883,
       "ideas": 14,
       "role": "about",
       "order": null,
@@ -1293,7 +1293,7 @@
   "totals": {
     "all": {
       "words": 2010,
-      "chars": 10265,
+      "chars": 10266,
       "ideas": 618
     },
     "chapters": {
