@@ -6,7 +6,10 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Viola Fischerová",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-01-19T00:00:00.000Z"
+      "modified": "2021-01-19T00:00:00.000Z",
+      "contentType": "poetry",
+      "publisherShort": "mkp",
+      "edition": "Poezie"
     },
     "elements": {
       "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL\nFAKE_NADPIS_VERS",
@@ -842,13 +845,13 @@
         "xhtml": "pisecne_dite_004.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Proč jen se usmívajíty malé hlavyUž v matčině krvia ještě v ráji",
         "subtitleSuggest": "",
         "filename": "pisecne_dite_005.md",
         "xhtml": "pisecne_dite_005.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Budu-li ti sukňu šítz květa makovéhobudeš ty mně niti přástz dešča májového",
         "subtitleSuggest": "",
         "filename": "pisecne_dite_006.md",
         "xhtml": "pisecne_dite_006.xhtml"
@@ -1160,7 +1163,7 @@
         "xhtml": "pisecne_dite_057.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Když v pátek přiletíš dřívzavedu tědo krytového divadla",
         "subtitleSuggest": "",
         "filename": "pisecne_dite_058.md",
         "xhtml": "pisecne_dite_058.xhtml"
@@ -1260,6 +1263,6 @@
       "user": "books-are-next",
       "repo": "fischerova-pisecne-dite"
     },
-    "generatedAt": 1664486221355
+    "generatedAt": 1665415537357
   }
 }
