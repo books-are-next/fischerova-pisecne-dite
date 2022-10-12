@@ -8,8 +8,8 @@
   "edition": "Poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "fischerova-pisecni-dite-c15f6fa",
-  "revision": "c15f6fa",
+  "identifier": "fischerova-pisecni-dite-5798258",
+  "revision": "5798258",
   "readingOrder": [
     "promo.html",
     "pisecne_dite_005.html",
@@ -74,8 +74,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Wed Oct 12 2022 09:12:13 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665565933679
+    "date": "Wed Oct 12 2022 09:17:07 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665566227534
   },
   "documents": [
     {
@@ -91,11 +91,11 @@
       "toc": []
     },
     {
-      "title": "Proč jen se usmívajíty malé hlavyUž v matčině krvia ještě v ráji",
+      "title": "Píseční dítě",
       "file": "pisecne_dite_005.html",
-      "words": 55,
+      "words": 58,
       "chars": 248,
-      "ideas": 13,
+      "ideas": 16,
       "role": "chapter",
       "order": 1,
       "prev": "promo.html",
@@ -104,18 +104,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Proč jen se usmívajíty malé hlavyUž v matčině krvia ještě v ráji",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Budu-li ti sukňu šítz květa makovéhobudeš ty mně niti přástz dešča májového",
+      "title": "Píseční dítě",
       "file": "pisecne_dite_006.html",
-      "words": 14,
+      "words": 17,
       "chars": 91,
-      "ideas": 2,
+      "ideas": 5,
       "role": "chapter",
       "order": 2,
       "prev": "pisecne_dite_005.html",
@@ -124,7 +124,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Budu-li ti sukňu šítz květa makovéhobudeš ty mně niti přástz dešča májového",
+          "name": null,
           "id": null,
           "children": []
         }
@@ -1151,11 +1151,11 @@
       ]
     },
     {
-      "title": "Když v pátek přiletíš dřívzavedu tědo krytového divadla",
+      "title": "Píseční dítě",
       "file": "pisecne_dite_058.html",
-      "words": 40,
+      "words": 42,
       "chars": 234,
-      "ideas": 11,
+      "ideas": 13,
       "role": "chapter",
       "order": 54,
       "prev": "pisecne_dite_057.html",
@@ -1164,7 +1164,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Když v pátek přiletíš dřívzavedu tědo krytového divadla",
+          "name": null,
           "id": null,
           "children": []
         }
@@ -1293,14 +1293,14 @@
   ],
   "totals": {
     "all": {
-      "words": 2012,
+      "words": 2020,
       "chars": 10275,
-      "ideas": 620
+      "ideas": 628
     },
     "chapters": {
-      "words": 1873,
+      "words": 1881,
       "chars": 9355,
-      "ideas": 602
+      "ideas": 610
     }
   }
 }

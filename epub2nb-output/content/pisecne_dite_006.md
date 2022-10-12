@@ -1,5 +1,4 @@
 ---
-title: "Budu-li ti sukňu šítz\_květa makovéhobudeš ty mně niti přástz\_dešča májového"
 contentType: poetry
 ---
 
@@ -8,5 +7,10 @@ contentType: poetry
 > 
 
 > _Písečnému dítěti_
+
+Budu-li ti sukňu šít  
+z květa makového  
+budeš ty mně niti přást  
+z dešča májového
 
 </section>
