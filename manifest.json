@@ -5,10 +5,11 @@
   "title": "Píseční dítě",
   "author": "Viola Fischerová",
   "publisher": "Městská knihovna v Praze",
+  "edition": "Poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "fischerova-pisecni-dite-c5f644d",
-  "revision": "c5f644d",
+  "identifier": "fischerova-pisecni-dite-c15f6fa",
+  "revision": "c15f6fa",
   "readingOrder": [
     "promo.html",
     "pisecne_dite_005.html",
@@ -73,8 +74,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Oct 10 2022 15:40:58 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665416458802
+    "date": "Wed Oct 12 2022 09:12:13 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665565933679
   },
   "documents": [
     {
@@ -1292,9 +1293,9 @@
   ],
   "totals": {
     "all": {
-      "words": 2010,
-      "chars": 10266,
-      "ideas": 618
+      "words": 2012,
+      "chars": 10275,
+      "ideas": 620
     },
     "chapters": {
       "words": 1873,

@@ -10,6 +10,9 @@ meta:
   author: Viola Fischerová
   publisher: Městská knihovna v Praze
   modified: '2021-01-19T00:00:00.000Z'
+  contentType: poetry
+  publisherShort: mkp
+  edition: Poezie
 readingOrder:
   - promo.html
   - pisecne_dite_005.html

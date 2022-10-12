@@ -1,6 +1,6 @@
 ---
 title: "Když v\_pátek přiletíš dřívzavedu tědo krytového divadla"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
