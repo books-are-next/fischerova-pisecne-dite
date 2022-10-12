@@ -1,6 +1,6 @@
 ---
 title: "Proč jen se usmívajíty malé hlavyUž v\_matčině krvia\_ještě v\_ráji"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
