@@ -10,13 +10,13 @@ hezká jak obraz
 v kterém se vidíš  
 a jemuž se podobám
 
-_ve tmě i za světla_
+ve tmě i za světla
 
 </section>
 
 <section>
 
-_té blažené zimní hodiny  
-navíc_
+té blažené zimní hodiny  
+navíc
 
 </section>

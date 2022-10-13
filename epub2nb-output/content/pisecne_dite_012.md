@@ -8,22 +8,22 @@ Má pyšná kůže je popsaná
 od hlavy po paty  
 samá čára znak a hnědá skvrna
 
-_Co na mně lásko máš  
+Co na mně lásko máš  
 a k čemu je mi  
-svěžest krása a něha_
+svěžest krása a něha
 
 </section>
 
 <section>
 
-_Usmíváš se  
-Jsi šťastná_
+Usmíváš se  
+Jsi šťastná
 
 </section>
 
 <section>
 
-_Učíš mně  
-milovat pokorně_
+Učíš mně  
+milovat pokorně
 
 </section>

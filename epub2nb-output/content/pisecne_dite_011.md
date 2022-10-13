@@ -9,40 +9,40 @@ nikoho živého
 Jen psa a kotě  
 které jsem našla
 
-_Samota dým  
-Samota droga_
+Samota dým  
+Samota droga
 
 </section>
 
 <section>
 
-_Proč sis vybrala  
-právě mne_
+Proč sis vybrala  
+právě mne
 
 </section>
 
 <section>
 
-_„Protože ty jsi ty  
+„Protože ty jsi ty  
 a já jsem já“  
 cituješ nevědouc  
-Montaigna_
+Montaigna
 
 </section>
 
 <section>
 
-_„Známe se tak  
+„Známe se tak  
 jak si to lze jenom vymyslet  
-nebo vysnít“_
+nebo vysnít“
 
 </section>
 
 <section>
 
-_Já se však lásko  
+Já se však lásko  
 musím ptát  
 čím za to všechno  
-budeš jednou platit_
+budeš jednou platit
 
 </section>

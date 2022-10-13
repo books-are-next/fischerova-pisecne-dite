@@ -9,16 +9,16 @@ jak židovská nevěsta
 Bratra čtyři přátele  
 i mateřskou Ninu
 
-_Žasli  
-jak jsi líbezná a moudrá_
+Žasli  
+jak jsi líbezná a moudrá
 
 </section>
 
 <section>
 
-_Vidíš  
+Vidíš  
 a jenom já  
 jako bych to celý rok  
-nevěděla_
+nevěděla
 
 </section>

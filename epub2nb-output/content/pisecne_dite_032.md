@@ -9,9 +9,9 @@ dvě laskavé paní
 co je obdarují pomazlí  
 a zmizí
 
-_Pane  
+Pane  
 ochraňuj i ty ostatní  
 jimž jsme odepřeli sen  
-i naději_
+i naději
 
 </section>

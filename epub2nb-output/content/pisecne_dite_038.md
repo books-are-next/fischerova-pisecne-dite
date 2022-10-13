@@ -7,22 +7,22 @@ contentType: poetry
 Nabízíš se  
 plná slunce
 
-_Nikde ostří trávy  
+Nikde ostří trávy  
 křoví  
-ani trn_
+ani trn
 
 </section>
 
 <section>
 
-_Náruč  
-co se zítra neuzavře_
+Náruč  
+co se zítra neuzavře
 
 </section>
 
 <section>
 
-_Vesmír dítěte  
-které ví_
+Vesmír dítěte  
+které ví
 
 </section>

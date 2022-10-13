@@ -8,24 +8,24 @@ Odlétla jsi v očích slzy
 a já už zas začínám tesknit  
 a snít
 
-_Je to jak když se řežou zuby  
+Je to jak když se řežou zuby  
 v srdci  
 ty sloní třetí  
-a poslední_
+a poslední
 
 </section>
 
 <section>
 
-_Jako termiti  
+Jako termiti  
 rozhlodávají moje zdi  
 Dobytou samotu  
-vítězný klid_
+vítězný klid
 
 </section>
 
 <section>
 
-_A ty jsi odletěla_
+A ty jsi odletěla
 
 </section>

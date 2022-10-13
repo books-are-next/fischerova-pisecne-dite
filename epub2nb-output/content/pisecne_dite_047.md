@@ -8,21 +8,21 @@ Tvá ztišená tvář
 Usínej lásko  
 a spi
 
-_Všechny tvé starosti  
+Všechny tvé starosti  
 leží teď na mé paži  
-hemží se jako mravenci_
+hemží se jako mravenci
 
 </section>
 
 <section>
 
-_Neboj  
-ani se ti nehnu_
+Neboj  
+ani se ti nehnu
 
 </section>
 
 <section>
 
-_A něco vymyslím_
+A něco vymyslím
 
 </section>

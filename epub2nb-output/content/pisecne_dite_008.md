@@ -9,17 +9,17 @@ i po nich zůstanou stopy
 přede mnou  
 ve mně
 
-_Jemné hloubení  
+Jemné hloubení  
 jak otisk dlaně  
-v písku_
+v písku
 
 </section>
 
 <section>
 
-_Žasnu  
+Žasnu  
 a sladce se poddávám  
 svému jinému vlastnímu  
-tvaru_
+tvaru
 
 </section>

@@ -11,22 +11,22 @@ voraři mají vylovit
 zelený vínek  
 z řeky
 
-_Tak chceš  
-abych ti zpívala_
+Tak chceš  
+abych ti zpívala
 
 </section>
 
 <section>
 
-_Aby tě v sobotu  
-budila_
+Aby tě v sobotu  
+budila
 
 </section>
 
 <section>
 
-_voděnka studená  
+voděnka studená  
 bazalička  
-kterou jsi zasiala_
+kterou jsi zasiala
 
 </section>

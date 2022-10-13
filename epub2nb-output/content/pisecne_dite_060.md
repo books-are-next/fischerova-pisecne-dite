@@ -7,21 +7,21 @@ contentType: poetry
 Vánoce  
 budou prý letos bílé
 
-_Od štědrosti lásko  
-nečekejme nic_
+Od štědrosti lásko  
+nečekejme nic
 
 </section>
 
 <section>
 
-_Ne víc  
+Ne víc  
 než hlas který za tmy  
-prochází uchem jehly_
+prochází uchem jehly
 
 </section>
 
 <section>
 
-_naše bohatství_
+naše bohatství
 
 </section>

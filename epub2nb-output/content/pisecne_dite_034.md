@@ -8,22 +8,22 @@ Oslavuješ nahé tělo
 co se bojí  
 samo před zrcadlo
 
-_dávno ulovené  
-s otisky jiných sítí_
+dávno ulovené  
+s otisky jiných sítí
 
 </section>
 
 <section>
 
-_Tušíš v něm muže  
+Tušíš v něm muže  
 na prahu stáří  
 kterého taky  
-milovala dívka_
+milovala dívka
 
 </section>
 
 <section>
 
-_krásná a svěží_
+krásná a svěží
 
 </section>

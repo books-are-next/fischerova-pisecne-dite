@@ -8,16 +8,16 @@ V jaké závrati
 jsi zvrátila hlavu  
 nade mnou
 
-_Milovala jsi v té chvíli  
+Milovala jsi v té chvíli  
 sebe  
-mnou_
+mnou
 
 </section>
 
 <section>
 
-_tou z bezčasí  
+tou z bezčasí  
 kde ještě nejsme  
-já a ty?_
+já a ty?
 
 </section>

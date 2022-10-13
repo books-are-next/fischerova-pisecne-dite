@@ -8,17 +8,17 @@ Kolikrát za den tě slyším
 kolikrát volám  
 do toho přízračného biura
 
-_Mému srdci narostly uši  
+Mému srdci narostly uši  
 zuby a drápy  
-lítého tygra_
+lítého tygra
 
 </section>
 
 <section>
 
-_jenž z dálky větří  
+jenž z dálky větří  
 a sní  
 jak roztrhá na kusy  
-kdo by ti ublížil_
+kdo by ti ublížil
 
 </section>

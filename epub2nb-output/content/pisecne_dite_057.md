@@ -8,17 +8,17 @@ Z kočárků zmizely
 trčící nahé noženy léta  
 Už prosvítá les
 
-_Pospěš si  
+Pospěš si  
 ať ještě zastaneš  
-poslední letošní listy_
+poslední letošní listy
 
 </section>
 
 <section>
 
-_Nejen ty čtyři  
+Nejen ty čtyři  
 které nám vloni  
 na vrcholku břízy  
-vydržely do jara_
+vydržely do jara
 
 </section>

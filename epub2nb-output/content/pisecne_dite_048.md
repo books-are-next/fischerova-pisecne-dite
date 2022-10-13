@@ -9,9 +9,9 @@ ledovou zeď
 Uvidíš skrz ní všechno  
 co nesmíš nevidět
 
-_Tlustou stěnu ze skla  
+Tlustou stěnu ze skla  
 jež tě ochrání  
 před maminčiným láskyplným  
-sápáním_
+sápáním
 
 </section>

@@ -8,32 +8,32 @@ Taky jsi malá malovala
 růžový sníh  
 aby byl vidět
 
-_a jabloň  
+a jabloň  
 s růžovými květy  
-i v zimě_
+i v zimě
 
 </section>
 
 <section>
 
-_Taky jsi v noci  
+Taky jsi v noci  
 potkávala paní  
 s úsměvem  
-jenž tuhne a kamení_
+jenž tuhne a kamení
 
 </section>
 
 <section>
 
-_a v úzkosti odlétala  
-padala hlavou dolů_
+a v úzkosti odlétala  
+padala hlavou dolů
 
 </section>
 
 <section>
 
-_na louku  
+na louku  
 k potoku  
-do trávy_
+do trávy
 
 </section>

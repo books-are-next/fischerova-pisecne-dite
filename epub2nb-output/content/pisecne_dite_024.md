@@ -10,9 +10,9 @@ chodit po laně
 vyprávět život  
 jako vtip
 
-_Usměj se  
+Usměj se  
 Směj se dítě  
 Ať se ti taky  
-proměním_
+proměním
 
 </section>

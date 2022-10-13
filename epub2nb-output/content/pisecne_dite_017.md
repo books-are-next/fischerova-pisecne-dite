@@ -9,15 +9,15 @@ zlaté egyptské
 jen bez černé linie  
 kolem
 
-_Božské dítě  
+Božské dítě  
 které se na mne  
-usmívá_
+usmívá
 
 </section>
 
 <section>
 
-_„Nejsem těžká  
-netrne ti ruka?“_
+„Nejsem těžká  
+netrne ti ruka?“
 
 </section>

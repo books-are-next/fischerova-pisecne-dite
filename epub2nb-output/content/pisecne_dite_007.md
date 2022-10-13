@@ -8,45 +8,45 @@ Tolik písku a slunce
 Našlo sis horoucí ruce  
 mé láskylačné dítě
 
-_Uplácávám_
+Uplácávám
 
 </section>
 
 <section>
 
-_ňadra z písku  
+ňadra z písku  
 břicho z písku  
 hladím útlé boky  
-i skrytou proláklinu_
+i skrytou proláklinu
 
 </section>
 
 <section>
 
-_Zalévám tě  
+Zalévám tě  
 mořem z dlaně  
 prosívám ti plavé vlasy  
-nad čelem_
+nad čelem
 
 </section>
 
 <section>
 
-_Jak blaženě se směje  
-mé zlaté písečné dítě_
+Jak blaženě se směje  
+mé zlaté písečné dítě
 
 </section>
 
 <section>
 
-_Ještě neslyší stíny  
+Ještě neslyší stíny  
 kostelních hodin  
-které ze stromů_
+které ze stromů
 
 </section>
 
 <section>
 
-_padají na mne_
+padají na mne
 
 </section>

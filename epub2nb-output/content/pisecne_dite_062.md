@@ -8,24 +8,24 @@ contentType: poetry
 z jakého dávna  
 tě znám
 
-_byla to tenkrát  
+byla to tenkrát  
 stejná hlava  
-a tvář_
+a tvář
 
 </section>
 
 <section>
 
-_bylas to ty  
+bylas to ty  
 nebo já  
-koho jsem poznala_
+koho jsem poznala
 
 </section>
 
 <section>
 
-_a komu jsi vyšla vstříc  
+a komu jsi vyšla vstříc  
 Byla jsem to já  
-bylas to ty?_
+bylas to ty?
 
 </section>

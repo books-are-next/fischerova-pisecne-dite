@@ -6,30 +6,30 @@ contentType: poetry
 
 Co za dary mi přinášíš
 
-_Uhaduješ moje sny  
+Uhaduješ moje sny  
 a potřeby v domácnosti  
-o kterých ani nevím_
+o kterých ani nevím
 
 </section>
 
 <section>
 
-_Přivezla jsi i laptop  
+Přivezla jsi i laptop  
 a vymýšlíš cvičení  
-pro nesystémovou hlavu_
+pro nesystémovou hlavu
 
 </section>
 
 <section>
 
-_A já lásko  
+A já lásko  
 — jaká úlitba —  
-nad nimi potajmu troskotám_
+nad nimi potajmu troskotám
 
 </section>
 
 <section>
 
-_znova a znova_
+znova a znova
 
 </section>

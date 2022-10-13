@@ -9,14 +9,14 @@ kdo tě zavede do pekla
 kdo tě opustí  
 a nechá stát někde u zdi
 
-_jako jedno  
-z těch židovských dětí_
+jako jedno  
+z těch židovských dětí
 
 </section>
 
 <section>
 
-_co je měl taky  
-někdo zachránit_
+co je měl taky  
+někdo zachránit
 
 </section>

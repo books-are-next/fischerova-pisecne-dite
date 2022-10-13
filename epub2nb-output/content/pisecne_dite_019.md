@@ -8,14 +8,14 @@ Na staženou kůži
 máš lék  
 jak jitrocel
 
-_„Chtěla bych tě teď držet  
+„Chtěla bych tě teď držet  
 a houpat v klíně“  
-pláčeš smíchem_
+pláčeš smíchem
 
 </section>
 
 <section>
 
-_Matka? Dítě?_
+Matka? Dítě?
 
 </section>

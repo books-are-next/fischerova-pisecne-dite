@@ -8,31 +8,31 @@ contentType: poetry
 nad hromadou smetených dětí  
 v slzách
 
-_že jestli chci  
+že jestli chci  
 můžeme vykoupit  
-alespoň jedno_
+alespoň jedno
 
 </section>
 
 <section>
 
-_co potom nikdo nezatratí  
+co potom nikdo nezatratí  
 do bordelu  
-nebo do otroctví_
+nebo do otroctví
 
 </section>
 
 <section>
 
-_Holku a kluka  
+Holku a kluka  
 ať tady po nás dvou  
-zůstane —_
+zůstane —
 
 </section>
 
 <section>
 
-_jedno dítě za mne  
-jedno za tebe_
+jedno dítě za mne  
+jedno za tebe
 
 </section>
