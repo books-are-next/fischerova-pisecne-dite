@@ -9,15 +9,15 @@ Konečně se smí
 ten léta polomrtvý táta  
 začít rozpadat
 
-_Plač dítě plač_
+Plač dítě plač
 
 </section>
 
 <section>
 
-_Vyprosím ti  
+Vyprosím ti  
 i mlčení matky  
 abys o něm  
-nemuselo snít_
+nemuselo snít
 
 </section>

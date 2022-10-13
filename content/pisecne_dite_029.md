@@ -8,25 +8,25 @@ Co všechno se tu sešlo
 protlo a prolíná  
 něhou
 
-_tvé zjizvené dětství  
+tvé zjizvené dětství  
 kmotra cizích dětí  
-dvojí jazyk a jedna řeč_
+dvojí jazyk a jedna řeč
 
 </section>
 
 <section>
 
-_v srozumění  
+v srozumění  
 až do konečků prstů  
 nemýtus touhy  
-dcery a matky_
+dcery a matky
 
 </section>
 
 <section>
 
-_A jiskra  
+A jiskra  
 která to všechno  
-podpálila_
+podpálila
 
 </section>

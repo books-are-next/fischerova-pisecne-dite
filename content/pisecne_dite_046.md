@@ -14,6 +14,6 @@ sáhni po srdci
 Vtiskni se do mne  
 ať si zmizím
 
-_Ať se mám_
+Ať se mám
 
 </section>

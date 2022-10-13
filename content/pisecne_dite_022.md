@@ -8,23 +8,23 @@ contentType: poetry
 Kolik lakomých večerů  
 navléká šero na šňůru
 
-_studených netěšivých odpolední  
+studených netěšivých odpolední  
 na zamrzlém rybníku  
-s bruslemi_
+s bruslemi
 
 </section>
 
 <section>
 
-_Jen jednou se mi povedlo  
+Jen jednou se mi povedlo  
 vyrýt do ledu  
-první stopu_
+první stopu
 
 </section>
 
 <section>
 
-_Jako tobě  
-O loňském Štědrém večeru_
+Jako tobě  
+O loňském Štědrém večeru
 
 </section>

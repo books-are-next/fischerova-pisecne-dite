@@ -9,15 +9,15 @@ mědi a zlata
 Psice ulovila  
 snášející se list
 
-_Tiskla ses ke mně  
-k zalknutí_
+Tiskla ses ke mně  
+k zalknutí
 
 </section>
 
 <section>
 
-_Ještě večer před zrcadlem  
+Ještě večer před zrcadlem  
 nebyla moje tvář  
-stará_
+stará
 
 </section>

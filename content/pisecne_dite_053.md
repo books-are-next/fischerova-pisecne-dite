@@ -7,16 +7,16 @@ contentType: poetry
 Nebyl to pahýl doubku  
 byl to kalich v mlází
 
-_dřevěný kalich  
+dřevěný kalich  
 strom ocún  
-rozhodla jsi_
+rozhodla jsi
 
 </section>
 
 <section>
 
-_Pak jsme mu  
+Pak jsme mu  
 — každá na chvíli —  
-půjčily svoji hlavu_
+půjčily svoji hlavu
 
 </section>

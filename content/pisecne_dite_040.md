@@ -9,27 +9,27 @@ když jsi nemohla
 ani za roh  
 mezi děti
 
-_holčička  
+holčička  
 co se u stolu nesměje  
-a nesmí mluvit_
+a nesmí mluvit
 
 </section>
 
 <section>
 
-_Teď se ledová královna  
+Teď se ledová královna  
 rozpadá  
 Vracíš se od ní  
 zimou mřivá  
-a pláčeš_
+a pláčeš
 
 </section>
 
 <section>
 
-_Marně tě konejším  
+Marně tě konejším  
 Že i svatý  
 ze svého pláště  
-dal jen půl_
+dal jen půl
 
 </section>

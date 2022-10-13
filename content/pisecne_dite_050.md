@@ -10,8 +10,8 @@ za mnou
 ani na krok —  
 jsi mi nedala jít
 
-_Úporný lačný bourec  
+Úporný lačný bourec  
 co si mě pevně ovíjí  
-hedvábím_
+hedvábím
 
 </section>

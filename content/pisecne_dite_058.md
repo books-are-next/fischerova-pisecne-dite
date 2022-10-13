@@ -12,24 +12,24 @@ Když v pátek přiletíš dřív
 zavedu tě  
 do krytového divadla
 
-_Kdosi tam stvořil  
+Kdosi tam stvořil  
 ze starých stolů židlí  
 a kuchyňských lamp s šátky  
-dětský sen_
+dětský sen
 
 </section>
 
 <section>
 
-_Vousatý principál  
-a jeho krásná žena_
+Vousatý principál  
+a jeho krásná žena
 
 </section>
 
 <section>
 
-_Ve sklepení  
+Ve sklepení  
 Vaří tam do misky zelňačku  
-a pěstují poezii_
+a pěstují poezii
 
 </section>

@@ -8,25 +8,25 @@ Ještě jednou být s tebou
 za noci v kukani  
 hotelové sprchy
 
-_být s tebou jedno  
+být s tebou jedno  
 uvnitř  
-a nemoci otevřít_
+a nemoci otevřít
 
 </section>
 
 <section>
 
-_chvět se  
+chvět se  
 i v teplé vodě  
-z které nevyjdeme…_
+z které nevyjdeme…
 
 </section>
 
 <section>
 
-_A potom v peřinách  
+A potom v peřinách  
 se smát a smát  
 a smát  
-až do rána_
+až do rána
 
 </section>

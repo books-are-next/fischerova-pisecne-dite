@@ -9,13 +9,13 @@ Pokaždé se stydíš
 že z víc  
 činíme málo
 
-_Stín ničeho  
-Tíseň viny_
+Stín ničeho  
+Tíseň viny
 
 </section>
 
 <section>
 
-_Zamáloučinění_
+Zamáloučinění
 
 </section>

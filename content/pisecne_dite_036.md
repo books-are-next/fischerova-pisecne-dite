@@ -8,28 +8,28 @@ Neměla jsem komu umřít
 jen strachu  
 psa nalezence
 
-_Teď mě lekají  
+Teď mě lekají  
 stromy ve tmě  
 každý sám jen  
-kmen a kmen_
+kmen a kmen
 
 </section>
 
 <section>
 
-_ty beze mne  
-já bez tebe_
+ty beze mne  
+já bez tebe
 
 </section>
 
 <section>
 
-_ledový měsíc_
+ledový měsíc
 
 </section>
 
 <section>
 
-_a pes_
+a pes
 
 </section>

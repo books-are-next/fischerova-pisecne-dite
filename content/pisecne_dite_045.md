@@ -7,15 +7,15 @@ contentType: poetry
 Vím že hledím ze dna  
 zrnko toužící po světle
 
-_Mám tu však lásku Pane_
+Mám tu však lásku Pane
 
 </section>
 
 <section>
 
-_to zahleděné dítě  
+to zahleděné dítě  
 které pod tunami vody  
 rozeznává v modři  
-jenom mne_
+jenom mne
 
 </section>

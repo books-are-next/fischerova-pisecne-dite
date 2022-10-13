@@ -10,7 +10,7 @@ a já jako ve snu
 jdu pro vodu po špičkách  
 abych tě nevzbudila
 
-_A už je to měsíc  
-co ses tu nevyspala_
+A už je to měsíc  
+co ses tu nevyspala
 
 </section>

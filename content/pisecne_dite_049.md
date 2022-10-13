@@ -8,17 +8,17 @@ Ještě jsi o mně nevěděla
 a už sis z Třeboně odvezla  
 na třech snímcích
 
-_ulici s podloubím —  
+ulici s podloubím —  
 dílo praděda  
 z předměstí  
 ničím nápadný dědečkův dům  
 můj dětský pohled z okna  
-mezi kašnou a radnicí_
+mezi kašnou a radnicí
 
 </section>
 
 <section>
 
-_Až mi zatrnulo_
+Až mi zatrnulo
 
 </section>

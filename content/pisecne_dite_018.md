@@ -8,32 +8,32 @@ Už mě nebolelo
 že brzy sejdu  
 Bavilo mě ztrácet
 
-_dávná já jména i místa  
+dávná já jména i místa  
 kde jsem byla šťastná  
-a proč_
+a proč
 
 </section>
 
 <section>
 
-_Svedlas mě z cesty  
+Svedlas mě z cesty  
 stáhla z kůže  
 vrátila bdělé sny  
-a noční strach_
+a noční strach
 
 </section>
 
 <section>
 
-_jak nebudu  
-bez tebe_
+jak nebudu  
+bez tebe
 
 </section>
 
 <section>
 
-_a zapomenu  
+a zapomenu  
 tvůj smích hlas  
-i tvoji tvář_
+i tvoji tvář
 
 </section>

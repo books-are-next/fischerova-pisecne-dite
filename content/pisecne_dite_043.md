@@ -9,16 +9,16 @@ se svým kajakem
 uprostřed dravé Rawky  
 nebo už na břehu
 
-_posíláš mi  
+posíláš mi  
 líbezné olše louky  
-a vodu s vyvrácenými kmeny_
+a vodu s vyvrácenými kmeny
 
 </section>
 
 <section>
 
-_Jak nebeská modř  
+Jak nebeská modř  
 Jaká úzkost  
-o nedělích_
+o nedělích
 
 </section>

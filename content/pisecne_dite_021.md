@@ -8,23 +8,23 @@ Slunce ještě hřeje
 ale mrazivý vítr  
 rve a sráží
 
-_včerejší léto  
-dnešní podzim_
+včerejší léto  
+dnešní podzim
 
 </section>
 
 <section>
 
-_Za den  
+Za den  
 sahá do okna  
-holá větev_
+holá větev
 
 </section>
 
 <section>
 
-_Jak křehké jsou stěny  
+Jak křehké jsou stěny  
 mezi bylo není  
-a jsem_
+a jsem
 
 </section>

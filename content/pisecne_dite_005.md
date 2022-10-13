@@ -13,26 +13,26 @@ ty malé hlavy
 Už v matčině krvi  
 a ještě v ráji
 
-_Co je v nebi tak k smíchu  
+Co je v nebi tak k smíchu  
 že ho znají  
 ještě i potmě a v krvi  
 lásky i nelásky  
 která je čeká  
-či nečeká_
+či nečeká
 
 </section>
 
 <section>
 
-_Teď už jen ve snu  
+Teď už jen ve snu  
 se občas rozpomenou  
 ta nemluvňata  
-co chtěla do světa_
+co chtěla do světa
 
 </section>
 
 <section>
 
-_a co nic neprozradí_
+a co nic neprozradí
 
 </section>

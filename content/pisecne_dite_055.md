@@ -9,21 +9,21 @@ to druhé dítě
 je tmavý chlapec  
 Niroshan „bez světla“
 
-_princ z Tisíce a jedné noci_
+princ z Tisíce a jedné noci
 
 </section>
 
 <section>
 
-_To jen v tom oblečení  
+To jen v tom oblečení  
 — bílá košile kalhoty s puky  
-a staré boty —_
+a staré boty —
 
 </section>
 
 <section>
 
-_vypadá na dvanáct  
-a jako odsouzený_
+vypadá na dvanáct  
+a jako odsouzený
 
 </section>

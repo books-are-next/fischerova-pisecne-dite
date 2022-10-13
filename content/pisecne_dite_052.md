@@ -9,24 +9,24 @@ se dá plout
 Smysl je utajen  
 v pozvolném vzdání vlnám“
 
-_To jsem ti lásko psala  
+To jsem ti lásko psala  
 kolébaná  
 s nohama po kotníky  
-ve vodě_
+ve vodě
 
 </section>
 
 <section>
 
-_Snila jsem  
-jako se dýchá_
+Snila jsem  
+jako se dýchá
 
 </section>
 
 <section>
 
-_Bylo mi patnáct  
+Bylo mi patnáct  
 a tys ještě nebyla  
-na světě_
+na světě
 
 </section>

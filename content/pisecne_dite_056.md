@@ -9,16 +9,16 @@ neptej se který je den
 vynoř se znovu na cestě  
 a přicházej
 
-_přicházej dlouze  
+přicházej dlouze  
 jako tvůj obraz  
-hodiny_
+hodiny
 
 </section>
 
 <section>
 
-_mé starodávné štěstí  
+mé starodávné štěstí  
 živé a blízko  
-pod stromy_
+pod stromy
 
 </section>

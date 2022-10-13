@@ -7,29 +7,29 @@ contentType: poetry
 Těch vzlyků smíchu —  
 až na nás klepali
 
-_A butik kde jsme kupovaly  
+A butik kde jsme kupovaly  
 kalhoty blůzy a sukně  
-jedna druhé_
+jedna druhé
 
 </section>
 
 <section>
 
-_„To je vaše dcera?“  
-usmívala se prodavačka_
+„To je vaše dcera?“  
+usmívala se prodavačka
 
 </section>
 
 <section>
 
-_„Ne láska“_
+„Ne láska“
 
 </section>
 
 <section>
 
-_„Stejně“  
+„Stejně“  
 řekla  
-„je to dar“_
+„je to dar“
 
 </section>

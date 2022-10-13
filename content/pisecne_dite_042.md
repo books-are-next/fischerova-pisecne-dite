@@ -8,21 +8,21 @@ A zase
 úplné světlé nebe  
 večer
 
-_Sníh mokvá  
+Sníh mokvá  
 na dně bláto  
-šlápot a stop_
+šlápot a stop
 
 </section>
 
 <section>
 
-_Křik ve větvích_
+Křik ve větvích
 
 </section>
 
 <section>
 
-_A vdech náhle předjarní  
-až strach_
+A vdech náhle předjarní  
+až strach
 
 </section>

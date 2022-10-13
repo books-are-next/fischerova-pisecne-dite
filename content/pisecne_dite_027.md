@@ -9,30 +9,30 @@ krásná a lačná
 že jsi pro lásku  
 skočila z útesu do jezera
 
-_abys ji stvrdila  
-aby byla_
+abys ji stvrdila  
+aby byla
 
 </section>
 
 <section>
 
-_Nepochopil nic  
+Nepochopil nic  
 ani v těch vysokých horách  
-Nechal tě odejít_
+Nechal tě odejít
 
 </section>
 
 <section>
 
-_Teď po letech se dovolává  
+Teď po letech se dovolává  
 výšky srázu  
 ledové vody  
-tvého skoku_
+tvého skoku
 
 </section>
 
 <section>
 
-_a volá_
+a volá
 
 </section>
