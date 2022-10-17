@@ -13,6 +13,7 @@ meta:
   contentType: poetry
   publisherShort: mkp
   edition: Poezie
+  isbn: 978-80-274-2848-9
 readingOrder:
   - promo.html
   - pisecne_dite_005.html
