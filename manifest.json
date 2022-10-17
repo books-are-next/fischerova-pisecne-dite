@@ -8,8 +8,8 @@
   "edition": "Poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "fischerova-pisecni-dite-e258c31",
-  "revision": "e258c31",
+  "identifier": "fischerova-pisecni-dite-ce3f445",
+  "revision": "ce3f445",
   "readingOrder": [
     "promo.html",
     "pisecne_dite_005.html",
@@ -74,8 +74,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Oct 13 2022 08:16:44 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665649004219
+    "date": "Mon Oct 17 2022 18:24:35 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1666031075489
   },
   "documents": [
     {
@@ -1273,9 +1273,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 133,
-      "chars": 883,
-      "ideas": 14,
+      "words": 137,
+      "chars": 920,
+      "ideas": 15,
       "role": "about",
       "order": null,
       "prev": "pisecne_dite_063.html",
@@ -1293,9 +1293,9 @@
   ],
   "totals": {
     "all": {
-      "words": 2020,
-      "chars": 10275,
-      "ideas": 628
+      "words": 2024,
+      "chars": 10312,
+      "ideas": 629
     },
     "chapters": {
       "words": 1881,
