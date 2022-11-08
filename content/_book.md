@@ -5,7 +5,7 @@ contentType: prose
 languageCode: cs
 meta:
   languageCode: cs
-  title: Píseční dítě
+  title: Písečné dítě
   identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
   author: Viola Fischerová
   publisher: Městská knihovna v Praze
